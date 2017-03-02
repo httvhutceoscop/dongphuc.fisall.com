@@ -1,0 +1,617 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Retailer\n"
+"POT-Creation-Date: 2015-01-09 16:30+0200\n"
+"PO-Revision-Date: 2015-01-09 16:30+0200\n"
+"Last-Translator: Get Bowtied <hq@getbowtied.com>\n"
+"Language-Team: Get Bowtied <hq@getbowtied.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;__ngettext:1,2;_n:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../admin\n"
+"X-Poedit-SearchPathExcluded-1: ../inc/tgm\n"
+"X-Poedit-SearchPathExcluded-2: ../woocommerce\n"
+
+#: ../404.php:22
+msgid "The page you are looking for does not exist. <br />Return to the"
+msgstr ""
+
+#: ../404.php:22
+msgid "home page"
+msgstr ""
+
+#: ../archive.php:28
+#, php-format
+msgid "Category Archives: \"%s\""
+msgstr ""
+
+#: ../archive.php:31
+#, php-format
+msgid "Tag Archives: \"%s\""
+msgstr ""
+
+#: ../archive.php:38
+#, php-format
+msgid "Author Archives: \"%s\""
+msgstr ""
+
+#: ../archive.php:46
+#, php-format
+msgid "Daily Archives: \"%s\""
+msgstr ""
+
+#: ../archive.php:49
+#, php-format
+msgid "Monthly Archives: \"%s\""
+msgstr ""
+
+#: ../archive.php:52
+#, php-format
+msgid "Yearly Archives: \"%s\""
+msgstr ""
+
+#: ../archive.php:55 ../sidebar-my_account.php:18 ../sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:39 ../comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:40 ../comments.php:60
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:41 ../comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-aside.php:11 ../content-audio.php:21 ../content-gallery.php:21
+#: ../content-image.php:11 ../content-quote.php:16 ../content-single.php:39
+#: ../content-single.php:41 ../content-status.php:11 ../content-video.php:21
+#: ../content.php:80 ../content.php:82 ../content.php:83
+msgid "Continue reading &raquo;"
+msgstr ""
+
+#: ../content-aside.php:13 ../content-audio.php:23 ../content-gallery.php:23
+#: ../content-image.php:13 ../content-page.php:31 ../content-quote.php:18
+#: ../content-single.php:45 ../content-status.php:13 ../content-video.php:23
+#: ../content.php:87 ../inc/paginate.php:42
+msgid "Pages:"
+msgstr ""
+
+#: ../content-aside.php:20 ../content-audio.php:30 ../content-gallery.php:30
+#: ../content-image.php:20 ../content-quote.php:25 ../content-status.php:20
+#: ../content-video.php:30 ../content.php:54
+msgid "Share this post"
+msgstr ""
+
+#: ../content-aside.php:39 ../content-audio.php:49 ../content-gallery.php:49
+#: ../content-image.php:39 ../content-quote.php:44 ../content-single.php:12
+#: ../content-video.php:49 ../content.php:16 ../search.php:30
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../content-audio.php:12 ../content-audio.php:14 ../content-gallery.php:12
+#: ../content-gallery.php:14 ../content-single.php:7 ../content-video.php:12
+#: ../content-video.php:14 ../content.php:8 ../content.php:10
+#: ../content.php:39 ../search.php:25
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../content-audio.php:61 ../content-gallery.php:61 ../content-image.php:51
+#: ../content-quote.php:56 ../content-single.php:17 ../content-video.php:61
+#: ../content.php:23 ../functions.php:1946 ../search.php:35
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content-audio.php:61 ../content-gallery.php:61 ../content-image.php:51
+#: ../content-quote.php:56 ../content-single.php:17 ../content-video.php:61
+#: ../content.php:23 ../functions.php:1946 ../search.php:35
+msgid "1 Comment"
+msgstr ""
+
+#: ../content-audio.php:61 ../content-gallery.php:61 ../content-image.php:51
+#: ../content-quote.php:56 ../content-single.php:17 ../content-video.php:61
+#: ../content.php:23 ../functions.php:1946 ../search.php:35
+msgid "% Comments"
+msgstr ""
+
+#: ../content-single.php:20 ../content.php:26
+msgid "Edit"
+msgstr ""
+
+#: ../content-status.php:39
+msgid "Status on"
+msgstr ""
+
+#: ../footer.php:256 ../header_style_centered.php:186
+#: ../header_style_default.php:158 ../header_style_menu_under.php:59
+msgid "Navigation"
+msgstr ""
+
+#: ../footer.php:355 ../header_style_default.php:257
+#: ../header_style_menu_under.php:158 ../inc/widgets/woocommerce-cart.php:18
+#: ../inc/widgets/woocommerce-cart.php:45
+msgid "Cart"
+msgstr ""
+
+#: ../footer.php:356 ../functions.php:2753 ../header_style_default.php:258
+#: ../header_style_menu_under.php:159
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:31
+msgid "Theme Options"
+msgstr ""
+
+#: ../functions.php:279
+msgctxt "post type general name"
+msgid "Portfolio"
+msgstr ""
+
+#: ../functions.php:280
+msgctxt "post type singular name"
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../functions.php:281
+msgctxt "Portfolio Item"
+msgid "Add New"
+msgstr ""
+
+#: ../functions.php:282
+msgid "Add New Portfolio item"
+msgstr ""
+
+#: ../functions.php:283
+msgid "Edit Portfolio item"
+msgstr ""
+
+#: ../functions.php:284
+msgid "New Portfolio item"
+msgstr ""
+
+#: ../functions.php:285
+msgid "All Portfolio items"
+msgstr ""
+
+#: ../functions.php:286
+msgid "View Portfolio item"
+msgstr ""
+
+#: ../functions.php:287
+msgid "Search Portfolio item"
+msgstr ""
+
+#: ../functions.php:288
+msgid "No Portfolio item found"
+msgstr ""
+
+#: ../functions.php:289
+msgid "No Portfolio item found in Trash"
+msgstr ""
+
+#: ../functions.php:322
+msgctxt "taxonomy general name"
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../functions.php:323
+msgctxt "taxonomy singular name"
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../functions.php:324
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../functions.php:325
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: ../functions.php:326
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../functions.php:327
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../functions.php:328
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../functions.php:329
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../functions.php:330
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../functions.php:331
+msgid "Separate Portfolio Categories with commas"
+msgstr ""
+
+#: ../functions.php:332
+msgid "Add or remove Portfolio Categories"
+msgstr ""
+
+#: ../functions.php:333
+msgid "Choose from the most used Portfolio Categories"
+msgstr ""
+
+#: ../functions.php:334
+msgid "No Portfolio Category found."
+msgstr ""
+
+#: ../functions.php:335
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../functions.php:2055 ../page-portfolio.php:33
+msgid "All"
+msgstr ""
+
+#: ../functions.php:2470
+msgid "Get Directions"
+msgstr ""
+
+#: ../functions.php:2703
+msgid "Top Header Menu"
+msgstr ""
+
+#: ../functions.php:2704
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:2705
+msgid "Secondary Menu"
+msgstr ""
+
+#: ../functions.php:2812
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:2821
+msgid "Product listing"
+msgstr ""
+
+#: ../functions.php:2840
+msgid "Light footer"
+msgstr ""
+
+#: ../functions.php:2860
+msgid "Dark footer"
+msgstr ""
+
+#: ../header_style_centered.php:118
+msgid "Shopping Bag"
+msgstr ""
+
+#: ../image.php:30
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at&nbsp;<a href=\"%3$s\" title=\"Link to full-"
+"size image\"> <i class=\"fa fa-picture-o\"></i>&nbsp; %4$s &times; %5$s</a> "
+"in &nbsp;<a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\"><i class="
+"\"fa fa-folder-open\"></i>&nbsp; %7$s</a>"
+msgstr ""
+
+#: ../image.php:45
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../image.php:49
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../inc/extras.php:75
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/paginate.php:43
+msgid "&raquo;"
+msgstr ""
+
+#: ../inc/paginate.php:43
+msgid "&laquo"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/custom_vc.php:51
+msgid "Height"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/custom_vc.php:61
+msgid "Background Style"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/vc_templates/vc_accordion_tab.php:12
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/vc_templates/vc_button2.php:4
+msgid "Text on the button"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/wc-products-by-category.php:26
+msgid "Products by Category"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/wc-products-by-category.php:27
+msgid "Products"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/wc-products-by-category.php:28
+msgid "Slider or Listing"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/wc-products-by-category.php:40
+#: ../inc/widgets/woocommerce-cart.php:19
+msgid "Title"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/wc-products-by-category.php:50
+msgid "Category"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/wc-products-by-category.php:59
+msgid "Number of Products"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/wc-products-by-category.php:69
+msgid "Layout Style"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/wc-products-by-category.php:83
+msgid "Order By"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/wc-products-by-category.php:84
+msgid "Description for Order By."
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/wc-products-by-category.php:101
+msgid "Order"
+msgstr ""
+
+#: ../inc/shortcodes/visual-composer/wc-products-by-category.php:102
+msgid "Description for Order."
+msgstr ""
+
+#: ../inc/template-tags.php:57
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:57 ../inc/template-tags.php:74
+msgid "(Edit)"
+msgstr ""
+
+#: ../inc/template-tags.php:72
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:79
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/widgets/connect.php:12
+msgid "A widget that displays customized social icons "
+msgstr ""
+
+#: ../inc/widgets/connect.php:16 ../inc/widgets/connect.php:107
+msgid "The Retailer Connect"
+msgstr ""
+
+#: ../inc/widgets/connect.php:132
+msgid "Widget title:"
+msgstr ""
+
+#: ../inc/widgets/connect.php:137
+msgid "Facebook URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:142
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:147
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:152
+msgid "Twitter URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:157
+msgid "Google+ URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:162
+msgid "RSS URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:167
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:172
+msgid "Instagram URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:177
+msgid "Youtube URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:182
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:187
+msgid "Behance URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:192
+msgid "Dribble URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:197
+msgid "Flickr URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:202
+msgid "Git URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:207
+msgid "Skype URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:212
+msgid "Weibo URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:217
+msgid "Foursquare URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:222
+msgid "Soundcloud URL"
+msgstr ""
+
+#: ../inc/widgets/connect.php:227
+msgid "VK URL"
+msgstr ""
+
+#: ../inc/widgets/recent-posts.php:17
+msgid "A widget that displays recent posts "
+msgstr ""
+
+#: ../inc/widgets/recent-posts.php:21
+msgid "The Retailer Recent Posts"
+msgstr ""
+
+#: ../inc/widgets/recent-posts.php:41
+msgid "Recent Posts"
+msgstr ""
+
+#: ../inc/widgets/recent-posts.php:58
+msgid "comments"
+msgstr ""
+
+#: ../inc/widgets/recent-posts.php:94 ../inc/widgets/social-media.php:83
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/recent-posts.php:97
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../inc/widgets/social-media.php:14
+msgid "The Retailer Social Media Profiles"
+msgstr ""
+
+#: ../inc/widgets/social-media.php:15
+msgid "A widget that displays Social Media Profiles"
+msgstr ""
+
+#: ../inc/widgets/social-media.php:78
+msgid "Get Connected"
+msgstr ""
+
+#: ../inc/widgets/woocommerce-cart.php:12
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: ../inc/widgets/woocommerce-cart.php:14
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ../inc/widgets/woocommerce-cart.php:24
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: ../no-results.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../page-archive.php:19
+msgid "The last posts"
+msgstr ""
+
+#: ../page-portfolio.php:107 ../taxonomy-portfolio_filter.php:89
+msgid "Load More"
+msgstr ""
+
+#: ../page-portfolio.php:108 ../taxonomy-portfolio_filter.php:90
+msgid "Loading..."
+msgstr ""
+
+#: ../search.php:15
+#, php-format
+msgid "Search Results for: \"%s\""
+msgstr ""
+
+#: ../searchform.php:10 ../searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: ../searchform.php:11
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../sidebar-my_account.php:25 ../sidebar.php:25
+msgid "Meta"
+msgstr ""
